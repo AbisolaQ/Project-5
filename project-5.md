@@ -23,7 +23,7 @@ To set up a Client-Server Architecture with Mysql using EC2, we need two instanc
 We set this up by doing the following:
 
 * create an account on [AWS](https://aws.amazon.com/). 
-* we create two instances by selecting __“ubuntu server 20.04 LTS”__ from Amazon Machine Image(AMI)(free tier) for the clie. 
+* we create two instances by selecting __“ubuntu server 20.04 LTS”__ from Amazon Machine Image(AMI)(free tier). 
 * we select “t2.micro(free tier eligible)”.
 * then go to the security group and select “a security group” review and launch.
 
